@@ -1,2 +1,2 @@
-# exercios_ebac
+# exercícios_ebac
 Exercícios da ebac do curso Qualidade de Software
